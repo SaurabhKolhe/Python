@@ -1,0 +1,43 @@
+Python:
+        It is fun-loving language develope as per comfort of Programmer/Developer.
+        Before Python C,C++ was developed and just in 1990 Java is introduced.
+        Python was developed in 1991 by 'Guido Van Rossum' on 20th feb 1991.
+        By name of 'Monty python flying circus' program come on BBC channel 'Python' name is introduced.
+        
+Versions of Python:  version        Year
+                      1.0           1994
+                      2.0           2000    (It is valid to 2020)
+                      3.0           2008
+                      3.7           2018    (It is latest versioncome in June 2018)
+                      
+Features:   1.General Purpose: We can use anywhere i.e in most of technology.
+            2.Procedural Oriented Programming: Python is inherited from C language.
+            3.Object oriented Programming: Python is inherited from C++ language. i.e Python is support features of both pop and oop.
+            4.Scripting language: Python is inherited from shell and perl,so it support scripting features also.
+            5.Python is written in c language i.e. classes and library of python is written in c language.
+            6.Interpreted Programming: Python is compile and run at same time i.e it check line by line code and run at same time.
+            7.High level programming language: Easy to understand to user. (Low level means language which is easy to understand for machine.)
+            8.Free for work: It is avaible on websites for free.
+            9.Open source: It is available for customize according to our need.
+            10.Dynamic Type or Typeless: We dont have to define datatype. i.e. in java "int c=20;" but in python "c=20"
+            
+Standard/Flavour:1.Cpython    (Use c language)
+                 2.Jpython    (Use java language)  
+                 3.Ironpython (C# or .net is use) 
+                 4.Anaconda   (Use for Bigdata)
+                 5.Rubypython (Use Ruby language)
+                 6.Stackless Python 
+                 7.pypypython
+Applications:1.Internet of things.
+             2.Machine Learning (Pandas,Matplot,Six,Numpy) 
+             3.Artificial Inteligence
+             4.Web Design and Developement (Flask,Django,Framework)
+             5.Data Science
+             6.Natural language processing
+             7.Neural network
+             
+ Disadvantage:1.Interpreted language: It take more time i.e every time it compile program.
+              2.Python is not use for Android Application Developement. 
+              
+             
+             
