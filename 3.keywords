@@ -1,0 +1,12 @@
+Keywords in Python:
+                   There are 33 keywords in Python
+                  1.True            11.del          21.in              31.while
+                  2.False           12.elif         22.as              32.with
+                  3.None            13.else         23.lambda          33.yield
+                  4.and             14.finally      24.non local  
+                  5.as              15.for          25.or 
+                  6.assert          16.from         26.not 
+                  7.break           17.except       27.pass 
+                  8.class           18.global       28.raise   
+                  9.continue        19.if           29.return
+                  10.def            20.import       30.try
