@@ -13,13 +13,14 @@ Datatype: Type of data which we want to store in container or variable
          double,character not supported.
          Array is not supported.
          curly braces {} is not supported.
-'''         
+'''    
+#Fundamental Datatype
 a=10        #integer
 b='Hello'   #string
 c=10.39     #float
-d=4+3j      #complex
 e=True      #boolean
-f=False
+f=False     #boolean
+d=4+3j      #complex              This datatype available only in python which makes complex number operation very easy.
 
 #we can use following command in terminal to check type of variable:
 type(variable_name)
