@@ -14,11 +14,11 @@ Datatype: Type of data which we want to store in container or variable
          Array is not supported.
          curly braces {} is not supported.
 '''         
-a=10
-b='Hello'
-c=10.39
-d=4+3j
-e=True
+a=10        #integer
+b='Hello'   #string
+c=10.39     #float
+d=4+3j      #complex
+e=True      #boolean
 f=False
 
 #we can use following command in terminal to check type of variable:
