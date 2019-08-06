@@ -16,3 +16,4 @@ List : It contain collection data which having different datatype(can contain sa
 a=[10,"Hello",10.34,True]
 print("List a: ",a)
 
+
