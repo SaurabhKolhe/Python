@@ -12,4 +12,7 @@ List : It contain collection data which having different datatype(can contain sa
                    index           0     1       2     3    4    5      
                                 a=[10,"String",10.45,True,False,1+4j]
                    index          -6    -5      -4    -3   -2    -1  
-                   
+'''
+a=[10,"Hello",10.34,True]
+print("List a: ",a)
+
