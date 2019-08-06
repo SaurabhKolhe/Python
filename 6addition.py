@@ -11,3 +11,10 @@ x=int(input("Enter 1st number"))
 y=int(input("Enter 2nd number"))
 print(x+y)
 
+#we do addition of complex number
+print("Addition of complex")
+p=int(input("Enter 1st complex number(x+yj)"))
+q=int(input("Enter 2nd complex number(x+yj)"))
+print(p+q)
+
+
