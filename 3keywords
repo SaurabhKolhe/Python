@@ -10,3 +10,12 @@ Keywords in Python:
                   8.class           18.global       28.raise   
                   9.continue        19.if           29.return
                   10.def            20.import       30.try
+                  
+Conditional Expressions:
+                          Meaning Math                  Symbol	  Python Symbols
+                          Less than	                     <	      <
+                          Greater than	                 >	      >
+                          Less than or equal	           ≤	      <=
+                          Greater than or equal	         ≥	      >=
+                          Equals	                       =	      ==
+                          Not equal	                     ≠	      !=
