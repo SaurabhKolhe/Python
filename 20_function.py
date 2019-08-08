@@ -64,3 +64,23 @@ d=cube(e)
 d=d*d
 print("d")
 print("End!!!")
+print("\n")
+
+#Arithmetic operation using function
+print("Arithmetic operation using function")
+p=int(input("Enter 1st Number"))
+q=int(input("Enter 2nd Number"))
+def add(p,q):
+         print("Addition : "a+b)
+def sub(p,q):
+         print("Substraction : "a-b)
+def mul(p,q):
+         print("Multiplication : "a*b)
+def div(p,q):
+         print("Division : "a//b)
+add(p,q)
+sub(p,q)
+mul(p,q)
+div(p,q)
+
+        
