@@ -1,7 +1,7 @@
 '''
 List : It contain collection data which having different datatype(can contain same datatype)
        i.e we can add number,string,float,boolean,complex in list.
-       As array only contain data of same datatype,it is more useful.
+       As array only contain data of same datatype,it is more useful. (Array not exist in python)
        List is mutable i.e we can change any specific value in list.
        
        Syntax:
