@@ -1,5 +1,5 @@
 '''
-Function:
+Function:We call function as METHODS in Python. 
          When some lines of code in required in program repeately then we can write it in function.
          Function is reduce complexity of program.
          There are 2 types of function:
