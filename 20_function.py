@@ -49,7 +49,7 @@ print("Start!!!")
 c=int(input("Enter number to find square"))
 def sqr(x):
     x=x*x
-    print("x")
+    print(x)
 hello(c)
 print("End!!!")
 
@@ -62,7 +62,7 @@ def cube(y):
     return y
 d=cube(e)
 d=d*d
-print("d")
+print(d)
 print("End!!!")
 print("\n")
 
