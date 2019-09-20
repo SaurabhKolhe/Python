@@ -7,7 +7,7 @@ passw=input("Enter Password\t")
         print("Incorrect Username or Password")
 '''
 
-
+#Validation of password,mobile number and username
 user=input("Enter Username\t")
 passw=input("Enter Password\t")
 cpass=input("Confirm Password\t")
