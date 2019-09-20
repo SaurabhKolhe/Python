@@ -1,4 +1,4 @@
-#List
+#Creating List with userdefine size
 c=[]
 a=int(input("Enter size of list"))
 for i in range(a):
@@ -6,11 +6,11 @@ for i in range(a):
     c.append(b)
 print(c)
 
-#
+#Find number and location in List
 val=int(input("Enter the number you want to search"))
 if val in c:
     print("Available")
-    print(c.index(val))   #to know position of val
+    print(c.index(val))
 else:
     print("Number is not available")
 
@@ -26,6 +26,11 @@ for i in range(1,a):
     if c[i]>max:
         max=c[i]
 print("Maximum number in List ",max)
+min=c[0]
+for i in range(1,a):
+    if c[i]<min:
+        min=c[i]
+print("Minimum number in List ",min)
 temp=0
 for i in range(a):
     temp=temp+c[i]
