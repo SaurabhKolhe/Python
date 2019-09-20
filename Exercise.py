@@ -1,13 +1,13 @@
 #Creating List with userdefine size
 c=[]
-a=int(input("Enter size of list"))
+a=int(input("Enter size of list\t"))
 for i in range(a):
-    b=int(input("Enter number to add in list"))
+    b=int(input("Enter number to add in list\t"))
     c.append(b)
 print(c)
 
 #Find number and location in List
-val=int(input("Enter the number you want to search"))
+val=int(input("Enter the number you want to search\t"))
 if val in c:
     print("Available")
     print(c.index(val))
