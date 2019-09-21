@@ -1,10 +1,10 @@
 #Username and Password Validation
 user=input("Enter Username\t")
 passw=input("Enter Password\t")
-    if user=="admin" and passw=="admin":
-        print("Welcome!!!")
-    else:
-        print("Incorrect Username or Password")
+if user=="admin" and passw=="admin":
+    print("Welcome!!!")
+else:
+    print("Incorrect Username or Password")
 
 #Validation of password,mobile number and username
 user1=input("Enter Username\t")
