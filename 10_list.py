@@ -55,9 +55,12 @@ b.insert(2,100)   #(location,value)
 c=[30,40,20]
 b.append(c)    #output: [20,10,100,50,70,90,[30,40,20]]
 
+max(b)  #To find maximum value in list
+min(b)  #To find minimum value in list
 #To delete list del() function is used
 del b
 
+ 
 
 
 
