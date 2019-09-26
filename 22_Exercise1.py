@@ -15,7 +15,8 @@ cpass1=input("Confirm Password\t")
 if passw1!=cpass1:
     print("Password not matched")
 mob=input("Enter mobile number")
-if len(mob)!=10:
+if len(mob)!=10 and :
     print("Mobile Should be 10 digit")
-mob=int(mob) 
+if not mob.isnumeric:
+    print("Mobile number should in number 0-9")
 
