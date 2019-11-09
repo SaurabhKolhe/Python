@@ -1,0 +1,55 @@
+1)Introduction:
+             1.History
+             2.Feature
+             3.Application
+             4.Standard
+             5.Version
+2)Datatype:
+         1.Int
+         2.Bool
+         3.flaot
+         4.String
+         5.Complex
+3)String and its Function
+4)Variables
+5)Keywords
+6)Operators
+7)Type Casting
+8)Command Line argument
+9)Collection:
+            1.List
+            2.Tuple
+            3.Set
+            4.Dictionary
+10)If
+     1.Simple
+     2.If else
+     3.elif
+11)while
+12)for
+13)break
+14)pass
+15)OOP
+    1.class and object
+    2.class data
+    3.Encapsulation
+    4.Polymorphism
+    5.Abstraction (Abstract class and Interface)
+    6.Inheritance (Method Resolution Order{MULTIPLE INHERITANCE})
+16)self keywords
+17)variable scope
+18)PIP
+19)module
+20)import
+21)Acess specifier
+22)Array
+23)Mulltithreading
+24)lambda/Anonynous
+25)main()
+26)File Operation
+27)Execption handling
+
+DataScience
+1)Numpy library
+2)Pandas library
+3)Matplot library
