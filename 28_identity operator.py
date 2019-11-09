@@ -1,7 +1,7 @@
 '''
 Identity operator:
                 1.is
-                2.not is
+                2.is not
 '''
 a=10
 b=10
